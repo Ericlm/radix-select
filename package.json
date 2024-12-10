@@ -13,6 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "radix-vue": "^1.9.11",
     "vue": "^3.5.13"
   },
   "devDependencies": {
